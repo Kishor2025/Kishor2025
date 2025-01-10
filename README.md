@@ -1,4 +1,4 @@
-<div center>![9g7tam](https://github.com/user-attachments/assets/a27f57c0-753f-47b3-a31b-d944ea3a3b8e)</div>
+![9g7tam](https://github.com/user-attachments/assets/a27f57c0-753f-47b3-a31b-d944ea3a3b8e)
 <h1 align="center">Hi 👋, I'm Kishor Baliram Chaudhari</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
